@@ -1,4 +1,6 @@
-# Named Entity Recognition
+### EX NO: 06
+### DATE:
+# <p align="center">Named Entity Recognition</p>
 
 ## AIM
 
@@ -36,8 +38,8 @@ We compile the model to fit the train sets and validation sets.
 ## PROGRAM
 ```python3
 
-Developed by: Sandhya Charu N
-Register Number: 212220230041
+# Developed by: Sandhya Charu N
+# Register Number: 212220230041
 
 import matplotlib.pyplot as plt
 import pandas as pd
